@@ -5,10 +5,10 @@ keywords:
   - compliance
   - zero trust
   - hardening
-name: compliance-scanning
+name: ocp-compliance-scanning
 type: application
 icon: https://validatedpatterns.io/images/validated-patterns.png
-version: 0.0.1
+version: 0.0.2
 home: https://github.com/validatedpatterns/ocp-compliance-scanning-chart
 maintainers:
   - name: Validated Patterns Team
